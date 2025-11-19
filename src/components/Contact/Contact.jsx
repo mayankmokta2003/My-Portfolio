@@ -47,6 +47,23 @@ export default function Contact(){
 
                     <div className="mid-left-end">
 
+
+                    <a href="https://github.com/mayankmokta2003" className="git">
+                    <div className="location-div">
+                        <img src="./images/github.png" className="mail-pic"/>
+                        <p className="my-mail-text">Github</p>
+                        </div>
+                    </a>
+
+
+
+                    <a href="https://www.linkedin.com/in/mayank-mokta-b78327331/" className="git">
+                    <div className="location-div">
+                        <img src="./images/linkedin.png" className="mail-pic"/>
+                        <p className="my-mail-text">Linkedin</p>
+                        </div>
+                    </a>
+
                         <div className="mail-div">
                         <img src="./images/mail.png" className="mail-pic"/>
                         <p className="my-mail-text">mayankmokta@gmail.com</p>

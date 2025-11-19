@@ -14,36 +14,36 @@ export default function About() {
 
         <div>
           <p className="about-mid-text">
-            I am an experienced Frontend Developer with over a year of
+            I am an experienced Full-stack Web3 Developer with over a year of
             professional expertise in the field.Throughout my career, I have had
             the privilege of collaborating with prestigious organizations,
             contributing to their success and growth.
           </p>
 
           <p className="about-mid-text">
-            My passion for frontend development is not only reflected in my
+            My passion for full-stack development is not only reflected in my
             extensive experience but also in the enthusiasm and dedication I
             bring to each project.
           </p>
 
           <div className="skills">
             <p className="skill1">
-              HTML & CSS 
+              HTML  &  Tailwind
               {/* <hr className="line1" /> */}
             </p>
 
             <p className="skill2">
-              React JS
+            JavaScript  &  React JS
               {/* <hr className="line2" /> */}
             </p>
 
             <p className="skill3">
-              JavaScript
+            Node JS  &  Mongo DB  &  Express JS
               {/* <hr className="line3" /> */}
             </p>
 
             <p className="skill4">
-              Node JS
+              Solidity  &  Foundry  &  Hardhat  &  Ethers JS
               {/* <hr className="line4" /> */}
             </p>
           </div>

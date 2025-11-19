@@ -13,7 +13,7 @@ export default function Hero() {
       </div>
 
       <div className="text2">
-        <h1 className="text22">Frontend Developer</h1>
+        <h1 className="text22">Full-Stack Web3 Developer</h1>
       </div>
       <p className="text33">"Make it work, make it right, make it fast."</p>
 
@@ -23,6 +23,7 @@ export default function Hero() {
             <p className="connect">Connect with me</p>
           </AnchorLink>
         </div>
+        
         <div className="end2">
           <p className="resume">My Resume</p>
         </div>
